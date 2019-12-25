@@ -21,4 +21,11 @@ public class MathUtils {
 		return a/b ;
 	}
 	
+	public double computeCirculeSquare(int square) {
+		return Math.PI * square* square;
+	}
+
+	
+	
+	
 }
